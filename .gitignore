@@ -1,0 +1,6 @@
+# Archivos con datos
+datos/*
+*.csv
+
+# Puntos de retorno de jupyter
+*.ipynb_checkpoints/*
