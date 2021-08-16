@@ -1,5 +1,5 @@
 # Archivos con datos
-datos/*
+*datos/*
 *.csv
 
 # Puntos de retorno de jupyter
