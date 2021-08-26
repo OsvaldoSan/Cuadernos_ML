@@ -3,4 +3,4 @@
 *.csv
 
 # Puntos de retorno de jupyter
-*.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
