@@ -4,3 +4,9 @@
 
 # Puntos de retorno de jupyter
 **/.ipynb_checkpoints/
+
+
+# Azure
+*.amlignore*
+*.ipynb_aml_checkpoints*
+*.amltmp
